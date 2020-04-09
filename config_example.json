@@ -1,0 +1,7 @@
+{
+  "host": "example.com",
+  "port": 5152,
+  "logPath": "log.txt",
+  "certFile": "ssl/fullchain.pem",
+  "keyFile": "ssl/privkey.pem"
+}
