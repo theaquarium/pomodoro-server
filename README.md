@@ -1,5 +1,5 @@
 # Pomodoro Timer Server
-The server backend for [pomodoro.peter.vashevko.com](https://pomodoro.peter.vashevko.com).
+The server backend for [pomodoro.leah.vashevko.com](https://pomodoro.leah.vashevko.com).
 
 ## Installation and Use
 This server requires Node.js to function.
