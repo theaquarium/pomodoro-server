@@ -1,7 +1,7 @@
 {
   "name": "pomodoro-server",
   "version": "1.0.0",
-  "description": "Server for pomodoro.peter.vashevko.com",
+  "description": "Server for pomodoro.leah.vashevko.com",
   "main": "index.js",
   "repository": "https://github.com/theaquarium/pomodoro-server",
   "author": "aquarium",
